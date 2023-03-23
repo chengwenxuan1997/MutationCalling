@@ -1,0 +1,7 @@
+#TumorBam,NormalBam
+#KAP2T_CNV.bin.aligned.sorted.bam,PBL2_CNV.bin.aligned.sorted.bam
+#KAP3T_CNV.bin.aligned.sorted.bam,PBL3_CNV.bin.aligned.sorted.bam
+#KAP2T.clean.bam,PBL2.clean.bam
+#KAP3T.clean.bam,PBL3.clean.bam
+KAP2T.chr1.bam,PBL2.chr1.bam
+KAP3T.chr1.bam,PBL3.chr1.bam
